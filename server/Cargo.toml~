@@ -1,0 +1,7 @@
+[package]
+name = "server"
+version = "0.0.1"
+authors = ["johannes"]
+
+[dependencies.ncurses]
+git = "https://github.com/jeaye/ncurses-rs"
