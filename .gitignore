@@ -1,6 +1,5 @@
-.*
-\#*
-!.travis.yml
-*tmpfile*
-*.racertmp
-target/
+**/.*
+**/\#*
+**/*tmpfile*
+**/*.racertmp
+**/target
